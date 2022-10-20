@@ -7,7 +7,7 @@ setting. It can be deeply promising, though it does present shortcomings, throug
 tags:
 - discrete
 - morse
--theory
+- theory
 ---
 
 ## Discrete Morse Theory
