@@ -1,0 +1,35 @@
+---
+title: Lectures
+permalink: /research/talks/
+redirect_from: /research/talks.html
+---
+
+## Various (less formal) interactive talks given in the past several semesters
+
+### Research Seminar Presentations
+
+[Discrete Morse Theory](../../assets/talks/DMT2.pdf)
+
+[Fr\'echet Spaces of Graphs](../../assets/talks/FrechetSpaces.pdf)
+
+
+### Directed Reading Presentations
+
+[Intro to Quantum Mechanics and its Applications in Computing (Bell Inequalities and Quantum Teleportation)](../../assets/talks/2.5&2.6.pdf)
+
+[Intro to Quantum Algorithms (Shor's Algorithm, in Particular!)](../../assets/talks/4.1&4.3.pdf)
+
+[Applications/Implications of Quantum Computing Especially Regarding Factoring](../../assets/talks/5.3&5.4.pdf)
+
+[Intro to Manifold Learning (ISOMAP Algorithm)](../../assets/talks/ISOMAP.pdf)
+
+
+### Lectures in Theoretical CS
+
+[Strong Exponential Time Hypothesis](../../assets/talks/SETH.pdf)
+
+[3-Sum Hardness and its relation to the Fr\'echet Distance](../../assets/talks/3SUM.pdf)
+
+
+
+
