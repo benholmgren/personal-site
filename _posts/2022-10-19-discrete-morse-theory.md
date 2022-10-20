@@ -10,7 +10,7 @@ tags:
 - theory
 ---
 
-## Discrete Morse Theory
+# Discrete Morse Theory
 
 ---
 
