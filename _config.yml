@@ -41,11 +41,11 @@ google-analytics:
 disqus-shortname: benholmgren
 
 # Name of the Author
-author-name: benholmgren
+author-name: Ben Holmgren
 # URL for the Image of the Author
 author-image: https://benholmgren.github.io/personal-site/assets/images/profile.jpg
 # 60 Words About the Author
-author-about: Ben Holmgren is a researcher from Bozeman, Montana working at the intersection of mathematics and computer science. He is particularly interested in the algorithmic study of topology and geometry, and their diverse applications.
+author-about: I am a researcher from Bozeman, Montana working at the intersection of mathematics and computer science. Of my many interests, I am especially drawn to the computational study of topology and geometry, and their diverse applications.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/benholmgren
 
