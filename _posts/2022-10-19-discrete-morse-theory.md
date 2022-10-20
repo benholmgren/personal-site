@@ -3,9 +3,7 @@ title: Discrete Morse Theory
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
 description: Discrete Morse theory is the extension of classical Morse theory on smooth manifolds to the discrete
-setting. It can be deeply promising, though not perfect, throughout broad applications in topological data analysis.
-permalink: /research/DMT/
-redirect_from: /research/DMT.html
+setting. It can be deeply promising, though it does present shortcomings, throughout broad applications in topological data analysis.
 tags:
 - discrete
 - morse
