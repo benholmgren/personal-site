@@ -1,5 +1,5 @@
 ---
-title: Beyond Math
+title: Mountains
 layout: page
 ---
 
