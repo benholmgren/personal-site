@@ -10,12 +10,6 @@ tags:
 - theory
 ---
 
-# Discrete Morse Theory
-
----
-
-### CCCG 2020: If You Must Choose Among Your Children, Pick the Right One
-
 Brittany Fasy, Brad McCoy, David Millman, and I published a paper in CCCG 2020, titled
 [If You Must Choose Among Your Children, Pick the Right One](../../assets/cccg20.pdf)
 
