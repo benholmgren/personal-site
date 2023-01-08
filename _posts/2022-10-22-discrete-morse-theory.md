@@ -9,7 +9,6 @@ tags:
 - theory
 ---
 
-Discrete Morse theory is the extension of classical Morse theory on smooth manifolds to the discrete setting. It can be deeply promising, though it is not a silver bullet, in broad applications throughout topological data analysis. I find discrete Morse theory particularly enjoyable to work with in an algorithmic setting because there are three canonical interpretations one can employ, as displayed in the above figure (these are combinatorial, algebraic, and topological). This is fun, because different interpretations can yield entirely different insights and invariants.
 
 > ### CCCG 2020: If You Must Choose Among Your Children, Pick the Right One
 
