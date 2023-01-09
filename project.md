@@ -11,3 +11,7 @@ given my life a great deal.
 Though, far more important than geography, home is defined by people. Here are mine.
 
 ![fam](fam.JPG)
+
+![gparents](gparents.JPG)
+
+![girl](girl.JPG)
