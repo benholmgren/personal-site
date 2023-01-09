@@ -10,7 +10,7 @@ tags:
 - frechet
 ---
 
-## YRF 2022
+### YRF 2022
 
 Presented in the Young Researchers Forum accompanying the 2022 CG Week in Berlin.
 
