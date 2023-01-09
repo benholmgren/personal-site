@@ -12,6 +12,16 @@ tags:
 Discrete Morse theory is the extension of classical Morse theory on smooth manifolds to the discrete setting. It can be deeply promising, though it is not a silver bullet, in broad applications throughout topological data analysis.
 
 
+> ### Linear Time Methods to Compute Discrete Morse Functions
+
+I am currently leading a paper establishing the first improvements since 2004 on the 
+computation of discrete Morse functions for two-manifolds, which we accomplish in
+linear time. We also provide a very slick gradient descent heuristic for realistic
+data in higher dimensions. Joint with my outstanding mentors in Montana: Brittany Fasy,
+Brad McCoy, David Millman, and Binhai Zhu
+
+[]
+
 > ### CCCG 2020: If You Must Choose Among Your Children, Pick the Right One
 
 Brittany Fasy, Brad McCoy, David Millman, and I published a paper in CCCG 2020, titled
