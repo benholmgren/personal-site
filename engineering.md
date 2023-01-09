@@ -23,8 +23,8 @@ I hope to continue this project and
 related work in the future, both during my graduate studies and in a career 
 thereafter.
 
-We also presented the application in the MSU undergraduate Research Celebration
-[poster session](./assets/thposter.png). 
+We also presented the application in the MSU undergraduate Research Celebration.
+![poster session](./assets/thposter.png) 
 
 If you are interested in a demo of the final product, please contact me. 
 (Unfortunately, servers cost money, so the full stack is not always running.) 
