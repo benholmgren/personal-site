@@ -1,5 +1,5 @@
 ---
-title: Metric Spaces
+title: Metric Spaces of Graphs
 layout: post
 description: Metric spaces.
 tags:
