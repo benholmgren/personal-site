@@ -2,12 +2,14 @@
 title: Discrete Morse Theory
 layout: post
 post-image: "https://benholmgren.github.io/personal-site/assets/images/logo.png"
-description: Discrete Morse theory is the extension of classical Morse theory on smooth manifolds to the discrete setting. It can be deeply promising, though it is not a silver bullet, in broad applications throughout topological data analysis.
+description: Discrete Morse theory.
 tags:
 - discrete 
 - Morse
 - theory
 ---
+
+Discrete Morse theory is the extension of classical Morse theory on smooth manifolds to the discrete setting. It can be deeply promising, though it is not a silver bullet, in broad applications throughout topological data analysis.
 
 
 > ### CCCG 2020: If You Must Choose Among Your Children, Pick the Right One
