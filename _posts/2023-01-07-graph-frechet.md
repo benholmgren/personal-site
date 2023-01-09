@@ -11,6 +11,20 @@ tags:
 It is often useful to study spaces of graphs living in a metric
 ambient space for many application areas in GIS and networks. Some of my research studies and defines these spaces rigorously.
 
+### Topological Properties of the Fréchet distance on Graphs
+
+> Preprint awaiting submission. Any feedback to improve this manuscript is encouraged!
+
+Title: Metric and Topological Properties of Paths and Graphs Under the Fréchet Distance
+
+Abstract: 
+
+
+The Fréchet distance is often used to measure distances between paths, with applications arising in road network and GPS trajectory analysis. The Fréchet distance can also be used to study distances between two copies of the same graph embedded or immersed in a metric space. In this paper, we examine topological properties of spaces of paths and of graphs mapped to Rn under the Fréchet distance. In particular, we prove whether or not these spaces and metric balls in these spaces are path- connected.
+
+[Link to Paper](../assets/graphprop.pdf)
+
+
 ### YRF 2022
 
 Presented in the Young Researchers Forum accompanying the 2022 CG Week in Berlin.
