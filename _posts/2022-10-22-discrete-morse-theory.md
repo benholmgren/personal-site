@@ -19,7 +19,8 @@ computation of discrete Morse functions for two-manifolds, which we accomplish i
 linear time. We also provide a very slick gradient descent heuristic for realistic
 data in higher dimensions. Joint with my outstanding mentors in Montana: Brittany 
 Fasy, Brad McCoy, David Millman, and Binhai Zhu. The plan is to submit this in 
-February to ICALP, 2023.
+February to ICALP, 2023. I also implemented this algorithm in C++: please inquire
+if you have interest in the implementation.
 
 > Full preprint scheduled to be released here on 1/10/2022
 
