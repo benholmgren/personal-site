@@ -33,3 +33,16 @@ If you are interested in the code for the underlying models in the application,
 that can be accessed [here](https://github.com/benholmgren/topo-health-models). It is 
 currently not maintained, but if you're interested 
 in it, let me know!
+
+
+
+# Brightvine
+
+I also worked as a software engineer for one year at 
+[Brightvine](https://www.brightvine.com/), a startup based in 
+Bozeman and San Francisco. In that time, I was the primary creator and maintainer of 
+a blockchain network. During my tenure, the network grew to hold roughly
+$150 million in financial data. Though most of my work there
+was not for public access, I did build a 
+[block explorer](https://explorer.brightvine.com/) which is available
+for the public to view and inspect activity on the blockchain.
