@@ -38,4 +38,4 @@ We examine topological properties of spaces of paths and graphs mapped to $R^d$ 
 We show that the spaces of graphs and paths mapped to $R^d$ are path-connected if the map is either 
 continuous or an immersion. If the map is an embedding, we show that the space of paths is path-connected, while the space of graphs only maintains this property in dimension 4 or higher.
 
-[Link to Paper](../../assets/yrf2022.pdf)
+[Link to Paper](../assets/yrf2022.pdf)
