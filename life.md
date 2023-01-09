@@ -9,13 +9,13 @@ enough writing for work. After all, this site is mostly just for me to look back
 
 ## Alaska
 
-![alcan](./assets/alcan.JPG)
+![alcan](./assets/images/alcan.JPG)
 
-![seward](./assets/meta.jpg)
+![seward](./assets/images/meta.jpg)
 
-![harding](./assets/harding.JPG)
+![harding](./assets/images/harding.JPG)
 
-![harding2](./assets/harding2.JPG)
+![harding2](./assets/images/harding2.JPG)
 
 ## Patagonia
 
