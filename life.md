@@ -33,6 +33,8 @@ enough writing for work. After all, this site is mostly just for me to look back
 
 ![Brother](./assets/images/brudda.jpg)
 
+![Guillamet](./assets/images/guilla.JPG)
+
 ![Rappel](./assets/images/rap.jpg)
 
 ![Fitz Roy](./assets/images/fitz.jpg)
