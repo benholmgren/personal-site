@@ -17,10 +17,13 @@ Discrete Morse theory is the extension of classical Morse theory on smooth manif
 I am currently leading a paper establishing the first improvements since 2004 on the 
 computation of discrete Morse functions for two-manifolds, which we accomplish in
 linear time. We also provide a very slick gradient descent heuristic for realistic
-data in higher dimensions. Joint with my outstanding mentors in Montana: Brittany Fasy,
-Brad McCoy, David Millman, and Binhai Zhu
+data in higher dimensions. Joint with my outstanding mentors in Montana: Brittany 
+Fasy, Brad McCoy, David Millman, and Binhai Zhu. The plan is to submit this in 
+February to ICALP, 2023.
 
-[]
+> Full preprint scheduled to be released here on 1/10/2022
+
+[Linear Time Computation of Discrete Morse Functions Over Two Manifolds (Preprint)](../assets/ICALP2023.pdf)
 
 > ### CCCG 2020: If You Must Choose Among Your Children, Pick the Right One
 
