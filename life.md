@@ -17,6 +17,8 @@ enough writing for work. After all, this site is mostly just for me to look back
 
 ![harding2](./assets/images/girdwood.JPG)
 
+![tundra](./assets/images/colors.JPG)
+
 ![brooks1](./assets/images/brooks.JPG)
 
 ![brooks2](./assets/images/brooks2.JPG)
