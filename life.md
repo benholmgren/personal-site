@@ -17,8 +17,25 @@ enough writing for work. After all, this site is mostly just for me to look back
 
 ![harding2](./assets/images/girdwood.JPG)
 
+![brooks1](./assets/images/brooks.JPG)
+
+![brooks2](./assets/images/brooks2.JPG)
+
 ## Patagonia
 
 ![Cerro Torre](./assets/images/torre.png)
+
+![Paso Superior](./assets/images/pasosuperior.jpg)
+
+![Lago Torre](./assets/images/lago.JPG)
+
+![Poincenot](./assets/images/poincenot.JPG)
+
+![Brother](./assets/images/brudda.jpg)
+
+![Rappel](./assets/images/rap.jpg)
+
+![Fitz Roy](./assets/images/fitz.jpg)
+
 
 
