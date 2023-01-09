@@ -1,6 +1,7 @@
 ---
 title: Metric Spaces of Graphs
 layout: post
+post-image: "https://benholmgren.github.io/personal-site/assets/images/dim3embed.png"
 description: Metric spaces.
 tags:
 - graph 
