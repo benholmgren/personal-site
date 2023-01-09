@@ -16,7 +16,7 @@ Though, far more important than geography, home is defined by people. Here are m
 
 ![gparents](./assets/images/gparents.JPG)
 
-![girl](./assets/images/lady.JPG)
+![girl](./assets/images/lady.jpeg)
 
 ## Good Reading
 
