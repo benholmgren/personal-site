@@ -10,8 +10,8 @@ given my life a great deal.
 
 Though, far more important than geography, home is defined by people. Here are mine.
 
-![fam](fam.JPG)
+![fam](./assets/images/fam.JPG)
 
-![gparents](gparents.JPG)
+![gparents](./assets/images/gparents.JPG)
 
-![girl](girl.JPG)
+![girl](./assets/images/girl.JPG)
