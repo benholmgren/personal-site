@@ -29,7 +29,7 @@ if you have interest in the implementation.
 > ### CCCG 2020: If You Must Choose Among Your Children, Pick the Right One
 
 Brittany Fasy, Brad McCoy, David Millman, and I published a paper in CCCG 2020, titled
-[If You Must Choose Among Your Children, Pick the Right One](../../assets/cccg20.pdf)
+[If You Must Choose Among Your Children, Pick the Right One](../assets/cccg20.pdf)
 
 Abstract: Given a simplicial complex K and an injective function f from the vertices of K to R, we consider algorithms that extend f to a discrete Morse function on K.
 We show that an algorithm of King, Knudson and Mramor can be described on the directed Hasse diagram of K.
