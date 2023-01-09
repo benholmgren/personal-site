@@ -1,8 +1,7 @@
 ---
 title: Metric Spaces
 layout: post
-description: It is often useful to study spaces of graphs living in a metric
-ambient space for many application areas in GIS and networks. Some of my research studies and defines these spaces rigorously.
+description: Metric spaces.
 tags:
 - graph 
 - metric
