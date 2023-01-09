@@ -15,7 +15,7 @@ enough writing for work. After all, this site is mostly just for me to look back
 
 ![harding](./assets/images/harding.JPG)
 
-![harding2](./assets/images/harding2.JPG)
+![harding2](./assets/images/girdwood.JPG)
 
 ## Patagonia
 
