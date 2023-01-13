@@ -14,7 +14,7 @@ up being more accurate than human radiologists, on average. With
 Joaquin Monterrosa and Nic Dzomba, I then hosted these models in an intuitive web application.
 
 <p align="center">
-    <img src="./assets/images/lung.png" alt="lung" width="200"/>
+    <img src="./assets/images/lung.png" alt="lung" width="500"/>
 </p>
 
 In the end, our project won a number of awards. These included
