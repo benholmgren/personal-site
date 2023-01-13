@@ -10,7 +10,7 @@ attended college, and Alaska, where I moved immediately upon graduating. Many fa
 of these two fantastic places are highlighted in my page on mountains. Both have 
 enriched my life a great deal.
 
-Far more important than geography, home is defined by people. Here are mine. (And my awesome dog, Rosie. She's a total rascal. Today was the best day of her life.)
+Far more important than geography, home is defined by people. Here are mine. (And our awesome dog, Rosie. She's a total rascal. Today was the best day of her life.)
 
 ![fam](./assets/images/fam.JPG)
 
