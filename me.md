@@ -10,13 +10,15 @@ attended college, and Alaska, where I moved immediately upon graduating. Many fa
 of these two fantastic places are highlighted in my page on mountains. Both have 
 enriched my life a great deal.
 
-Though, far more important than geography, home is defined by people. Here are mine.
+Far more important than geography, home is defined by people. Here are mine. (And my awesome dog, Rosie. She's a total rascal. Today was the best day of her life.)
 
 ![fam](./assets/images/fam.JPG)
 
 ![gparents](./assets/images/gparents.JPG)
 
 ![supercoolgirl](./assets/images/ladyfriend.JPG)
+
+![rosalita](./assets/images/rosalita.JPG)
 
 ## Good Reading
 
