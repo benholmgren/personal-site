@@ -41,5 +41,15 @@ enough writing for work. After all, this site is mostly just for me to look back
 
 ![Fitz Roy](./assets/images/fitz.jpg)
 
+## Montana
+
+![East Rosebud](./assets/images/chamonix.jpg)
+
+![Grand Teton](./assets/images/grand.jpg)
+
+![Ice](./assets/images/mummyIII.jpg)
+
+![Mystery Dome](./assets/images/granite.jpg)
+
 
 
