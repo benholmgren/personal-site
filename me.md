@@ -31,3 +31,16 @@ Here are a few pieces of writing that particularly resonated with me (with some 
 * Just Mercy, Bryan Stevenson
 * Jitterbug Perfume, Tom Robbins
 * Computational Topology: An Introduction, Herbert Edelsbrunner and John Harer
+
+---
+
+“The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.” ~ Albert Camus
+
+“Young man, in mathematics you don't understand things. You just get used to them.” 
+~ John Von Neumann
+
+"My favorite state has not yet been invented. It will be called Montana, and it will be perfect." ~ Abraham Lincoln
+
+"It doesn't have to be fun to be fun." ~ Mark Twight
+
+
