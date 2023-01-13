@@ -11,9 +11,11 @@ topology, both for mesh manipulation and in constructing the actual models.
 
 The project ended 
 up being more accurate than human radiologists, on average. With 
-Joaquin Monterrosa, I then hosted these models in an intuitive web application.
+Joaquin Monterrosa and Nic Dzomba, I then hosted these models in an intuitive web application.
 
-![lung](./assets/images/lung.png)
+<p align="center">
+    <img src="./assets/images/lung.png" alt="lung" width="200"/>
+</p>
 
 In the end, our project won a number of awards. These included
 the "Best Pitch" and "Biggest Idea" in the MSU "Big Idea Challenge" each for
