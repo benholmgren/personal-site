@@ -6,11 +6,12 @@ title: Bio
 ## Me
 
 There are two places that I would so far call home: Montana, where I was raised and 
-attended college, and Alaska, where I moved immediately upon graduating. Many facets 
-of these two fantastic places are highlighted in my page on mountains. Both have 
+attended college, and Alaska, where I moved immediately upon graduating with my partner, who is pursuing a 
+career in rural medicine. These two fantastic places are highlighted, in small part,
+in my page on mountains. Both have 
 enriched my life a great deal.
 
-Far more important than geography, home is defined by people. Here are mine. (And our awesome dog, Rosie. She's a total rascal. Today was the best day of her life.)
+Though, far more important than geography, we are defined by people. Here are mine. (And our awesome dog, Rosie, when she was a puppy. She's a total rascal.)
 
 ![fam](./assets/images/fam.JPG)
 
@@ -22,7 +23,7 @@ Far more important than geography, home is defined by people. Here are mine. (An
 
 ## Good Reading
 
-Here are a few pieces of writing that particularly resonated with me (with some recency bias):
+Here are a few pieces of writing that I am particularly fond of (with some recency bias):
 
 * Homo Deus, Yuval Noah Harari
 * In Search of the Mount Cleveland Five, Terry Kennedy
