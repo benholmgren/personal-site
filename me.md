@@ -37,6 +37,8 @@ Here are a few pieces of writing that I am particularly fond of (with some recen
 
 ---
 
+## Good Quotes
+
 “The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.” ~ Albert Camus
 
 “Young man, in mathematics you don't understand things. You just get used to them.” 
@@ -46,4 +48,9 @@ Here are a few pieces of writing that I am particularly fond of (with some recen
 
 "It doesn't have to be fun to be fun." ~ Mark Twight
 
+---
+
+## Random
+
+Erdös Number: 3
 
